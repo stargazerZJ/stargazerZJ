@@ -1,4 +1,12 @@
-## Hi there~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+## Hi, I'm Ji Zeng <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+I am a junior undergraduate at SJTU ACM Class, specializing in the intersection of **Systems and Generative AI**. My research interests focus on **Data-Centric AI** and **Large Language Models (LLMs)**. 
+I enjoy proposing novel ideas of data synthesis and engineering high-throughput distributed systems to realize my ideas.
+
+Currently, I am a Research Assistant at the **[Generative Artificial Intelligence Research Lab (GAIR)](https://plms.ai/)**, advised by [Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ&hl=en).
+
+As a side hobby, I'm intrested in computer networking. Check out my [Networking-Tutorial](https://github.com/stargazerZJ/Networking-Tutorial-PPCA)!
+
 
 <!--
 **stargazerZJ/stargazerZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
