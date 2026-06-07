@@ -3,7 +3,10 @@
 I am a junior undergraduate at SJTU ACM Class, specializing in the intersection of **Systems and Generative AI**. My research interests focus on **Data-Centric AI** and **Large Language Models (LLMs)**. 
 I enjoy proposing novel ideas of data synthesis and engineering high-throughput distributed systems to realize my ideas.
 
-Currently, I am a Research Assistant at the **[Generative Artificial Intelligence Research Lab (GAIR)](https://plms.ai/)**, advised by [Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ&hl=en).
+Currently, I am a Research Assistant at the **[CX Research Group (CXR)](https://www.cs.cmu.edu/~cxcscmu/)** in CMU LTI, advised by [Prof. Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
+<!-- Currently, I am a Research Assistant at the **[Generative Artificial Intelligence Research Lab (GAIR)](https://plms.ai/)**, advised by [Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ&hl=en). -->
+
+
 
 As a side hobby, I'm intrested in computer networking. Check out my [Networking-Tutorial](https://github.com/stargazerZJ/Networking-Tutorial-PPCA)!
 
